@@ -1,2 +1,3 @@
-# 100-days-python
-"Projects built while learning Python"
+# 100 Days Python Challenge
+
+Projects built while learning Python from Udemy courses and self-practice.
